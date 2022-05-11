@@ -1,0 +1,7 @@
+project: rnshah9/playground
+target: playground
+image: ghcr.io/rnshah9/playground:swieros
+
+cmds:
+  - cmd: /swieros/xc @@
+    filepath: /test.c
