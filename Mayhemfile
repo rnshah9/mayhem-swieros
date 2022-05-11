@@ -1,5 +1,6 @@
 project: rnshah9/mayhem-swieros
 target: xc
+image: ghcr.io/rnshah9/mayhem-swieros:latest
 
 cmds:
   - cmd: /swieros/xc @@
